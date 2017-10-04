@@ -1,4 +1,6 @@
 # Public-Monitoring-Service
+
+[![Join the chat at https://gitter.im/MJBCode/Public-Monitoring-Service](https://badges.gitter.im/MJBCode/Public-Monitoring-Service.svg)](https://gitter.im/MJBCode/Public-Monitoring-Service?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 MJB Code's way to allow companies to display public service statuses
 
 Future implementation
